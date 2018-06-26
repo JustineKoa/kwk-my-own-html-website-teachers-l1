@@ -1,0 +1,30 @@
+body
+{
+  background: #11416b;
+}
+
+.my-title
+{
+  font-size: 50pt;
+  font-family: 'Roboto';
+  color: white;
+  text-align: center;
+}
+
+.things-I-love
+{
+  font-size: 20pt;
+  font-family: 'Shrikhand', cursive;
+  color: white;
+  text-align: center;
+}
+
+.items
+{
+  color: white;
+  font-family: 'Roboto';
+  font-size: 20pt;
+  text-align: center;
+  font-weight: bold;
+
+}
